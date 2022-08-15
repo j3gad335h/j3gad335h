@@ -32,4 +32,4 @@ I spend most of my times to refine my old projects, read web novels and play gam
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j3gad335h&layout=compact)](https://github.com/j3gad335h)
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j3gad335h&layout=compact)](https://github.com/j3gad335h)-->

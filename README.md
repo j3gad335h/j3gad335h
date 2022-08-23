@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 Connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jegadeeshn/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("ntjegadeesh@gmail.com")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jegadeeshn/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("[ntjegadeesh@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ntjegadeesh@gmail.com)")
   
   <div align="center">
   <a href="https://j3gad335h.github.io/portfolio/">

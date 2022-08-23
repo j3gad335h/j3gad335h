@@ -29,15 +29,13 @@ Connect with me on:
   <a href="https://j3gad335h.github.io/portfolio/">
   <img  src="https://github.com/j3gad335h/portfolio/blob/main/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> 
 
-**Technical Skills**
+<h2 align="center"> 🌟 Technical Skills </h2>
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
   
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
@@ -53,6 +51,6 @@ Connect with me on:
        </p>
      <br>
   </div>    
-</details>
+
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j3gad335h&layout=compact)](https://github.com/j3gad335h)-->

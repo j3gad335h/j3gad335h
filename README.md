@@ -34,5 +34,25 @@ Connect with me on:
 **Technical Skills**
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+  
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/j3gad335h">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j3gad335h&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Jegadeesh :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/j3gad335h/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=j3gad335h&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=j3gad335h&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
+</details>
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j3gad335h&layout=compact)](https://github.com/j3gad335h)-->

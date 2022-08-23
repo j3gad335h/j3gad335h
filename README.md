@@ -22,9 +22,11 @@ You can click the Preview link to take a look at your changes.
   🤔 I’m currently open for:  A new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYnbnlgvjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
  </pre>
 <hr>
+
 Connect with me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jegadeeshn/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("ntjegadeesh@gmail.com")
   
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" href="https://www.linkedin.com/in/jegadeeshn/">  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" href="ntjegadeesh@gmail.com">
   <div align="center">
   <a href="https://j3gad335h.github.io/portfolio/">
   <img  src="https://github.com/j3gad335h/portfolio/blob/main/img/grid-snake.svg"

@@ -39,7 +39,7 @@ Connect with me on:
 
 🎨 Frameworks:
 
-  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) 
+  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![CUCUMBER](https://img.shields.io/badge/CUCUMBER-2ea44f?style=for-the-badge)
   
  📊 Analytics:
  

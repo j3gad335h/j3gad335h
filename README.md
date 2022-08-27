@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
  <pre >
   💻 I am a self taught programmer and a Software Tester.
   📝 I have a strong interest in Automation and Testing.
-  🌱 Learning about APIs involved in automation.
+  🌱 I am currently learning Karate framework
   🔭 Working on optimizing my projects.
   🌟 Main languages: Java,Python
   🤔 I’m currently open for:  A new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYnbnlgvjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>

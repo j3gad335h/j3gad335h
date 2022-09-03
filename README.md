@@ -78,4 +78,4 @@ Connect with me on:
   </div>    
 
 
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j3gad335h&layout=compact&hide=jupyter%20notebook)](https://github.com/j3gad335h)-->
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j3gad335h&hide=jupyter%20notebook&layout=compact)](https://github.com/j3gad335h)-->

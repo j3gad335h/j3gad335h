@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-🎨 Frameworks:
+🧪 Frameworks:
 
   ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![CUCUMBER](https://img.shields.io/badge/CUCUMBER-2ea44f?style=for-the-badge)
   

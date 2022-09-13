@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   🌱 I am currently learning Flask Framework
   🔭 Working on optimizing my projects.
   🌟 Main languages: Java,Python
-  🤔 I’m currently open for:  A new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYnbnlgvjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+  🤔 I’m currently open for:  A new <b>job opportunity</b>, this is <a href="https://drive.google.com/drive/u/1/folders/1lc-QTVqw9wtBhTs9G3UBXHKBA1o_i80B" target="_blank">MY RESUME.</a>
  </pre>
 <hr>
 

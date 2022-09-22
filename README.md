@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <p align="center">
  <a href="https://github.com/Bouaskaoun">
-		 <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Tester;Automation+Engineer;Freelancer;Java%20|%20Python%20|%20Automation%20Enthusiastic;Always%20learning%20new%20things&center=true&width=450&height=45">
+		 <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;QA+Tester;Java%20|%20Python%20|%20Automation%20Enthusiastic;Always%20learning%20new%20things&center=true&width=450&height=45">
    </a>
 </p>
 <hr>

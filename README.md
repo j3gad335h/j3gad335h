@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 <hr>
  <pre >
-  💻 I am a self taught programmer and a Software Tester.
-  📝 I have a strong interest in Automation and Testing.
+  💻 I am a self taught programmer and Backend Developer
+  📝 I have a strong interest in Web Development and Automation.
   🌱 I am currently learning Flask Framework
   🔭 Working on optimizing my projects.
   🌟 Main languages: Java,Python

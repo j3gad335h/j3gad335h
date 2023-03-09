@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
   📝 I have a strong interest in Web Development and Automation.
   🌱 I am currently learning Flask Framework
   🔭 Working on optimizing my projects.
-  🌟 Main languages: Java,Python
+  🌟 Main languages: PHP,Python
   
  </pre>
 <hr>

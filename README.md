@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
  <pre >
   💻 I am a self taught programmer and Backend Developer
   📝 I have a strong interest in Web Development and Automation.
-  🌱 I am currently learning Flask Framework
+  🌱 I am currently learning NextJs Framework
   🔭 Working on optimizing my projects.
-  🌟 Main languages: PHP,Python
+  🌟 Main languages: PHP,Python,ReactJS
   
  </pre>
 <hr>

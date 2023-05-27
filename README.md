@@ -17,14 +17,14 @@ You can click the Preview link to take a look at your changes.
   💻 I am a self taught programmer and Backend Developer
   📝 I have a strong interest in Web Development and Automation.
   🌱 I am currently learning NextJs Framework
-  🔭 Working on optimizing my projects.
+  🔭 Working on developing fintech applications.
   🌟 Main languages: PHP,Python,ReactJS
   
  </pre>
 <hr>
 
 <div align="center">
-    <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+    <i>Random dev joke for you! (create your own by clicking here ↓) <br/></i><br>
     <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>  </br> 
 

@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
   <h1 align="center">Hi There<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jegadeesh</h1>
 </div>
 <p align="center">
- <a href="https://github.com/Bouaskaoun">
+ <a href="https://github.com/j3gad335h">
 		 <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Laravel%20|%20Python%20|%20React%20JS;Always%20learning%20new%20things&center=true&width=450&height=45">
    </a>
 </p>
